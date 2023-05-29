@@ -5,4 +5,4 @@
 
 ![Game Flappy Bird](https://raw.githubusercontent.com/IzaacBaptista/Game-Flappy-Bird/master/images/game%20flappy%20bird.png)
 
-Disponível em: 
+Disponível em: https://izaacbaptista.github.io/Game-Flappy-Bird/
